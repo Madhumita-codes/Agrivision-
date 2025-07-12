@@ -1,0 +1,8 @@
+
+{
+  "name": "AgroVision AI",
+  "description": "An AI-powered assistant for farmers and gardeners. Identify plant diseases from images and get answers to your agricultural questions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
